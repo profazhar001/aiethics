@@ -1,0 +1,80 @@
+html,body{
+	height: 100%; width: 100%;
+}
+
+.my-nav li .nav-link{
+    font-size: 18px;
+    color: dimgray !important;
+}
+.navbar-brand{
+    font-size: 18px;
+    color: dimgray !important;
+}
+.navbar-brand:hover{color: #808080 !important;}
+.my-nav li .nav-link:hover{color: #808080 !important;}
+
+.navbar-nav > li>a{
+ line-height: 50px;
+  }
+
+.jumbotron{
+    background-image: url("img/11.png");
+    background-size: cover;
+    background-position: center bottom;
+    padding-top: 6%;
+    padding-bottom: 6%;
+   
+}
+#team a{
+    text-decoration: none;
+    color: white;
+}
+#team a:hover {
+    color: dimgray;
+  }
+
+#us a {
+    text-decoration: none;
+    color: rgb(180, 177, 177);
+}
+#us a:hover {
+    text-decoration: none;
+    color:#808080;
+}
+/*call to action start*/
+.top-heading p{width: 100%; text-align: center; color: #787878; font-size: 60px; text-transform: capitalize;}
+
+.card,.card1,.card2,.card3 {
+    text-align: left;
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: -webkit-box-shadow -19px 19px 43px 0px rgba(0,0,0,0.61);
+    -moz-box-shadow: -19px 19px 43px 0px rgba(0,0,0,0.61);
+    box-shadow: -19px 19px 43px 0px rgba(0,0,0,0.61);
+    }
+    .card .card-title {font-weight: bold; font-size: 30px; color: dimgray;}
+.card .card-text{color: #737373; font-weight: 600;}
+.card1,.card2,.card3{background-color: rgba(0,0,0,0.15); transition: 1s;}
+.card1:hover,.card2:hover,.card3:hover{background-color: rgba(0,0,0,0.05); transition: 1s;}
+/*call to action end*/
+
+/*about start*/
+
+.custom-btn{background-color: white; border-color: dimgray; color: dimgray;transition: 1s;}
+.custom-btn:hover{background-color: dimgray; border-color: white; color: white;transition: 1s;}
+.bg-gray{background-color: #f0f0f0;}
+.hero-heading{color:dimgray;font-size: 35px;}
+.hero-paragraph{color: #767676; font-size: 25px;}
+.hero-img{border-radius: 5px 5px 5px 5px;}
+
+/*about end*/
+
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #808080;
+    text-align: left;
+}
+.blog-footer a{
+    text-decoration: none;
+    color: #808080;
+}
