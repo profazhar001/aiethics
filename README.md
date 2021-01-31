@@ -1,6 +1,6 @@
 # Make-A-Thon
 
-### BMCC - Fall 2020 Virtual Make-A-Thon for Social Good Challenge.
+### BMCC - Fall 2020 Virtual Make-A-Thon for Social Good Challenge
 The Call for Code Global Challenge — created by David Clark Cause and supported by Founding Partner IBM and Charitable Partner United Nations Human Rights — invites developers and problem solvers around the world to build solutions that fight back against the most pressing issues of our time.
 
 ## Cybersecurity Education For Elderly People
